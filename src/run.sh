@@ -5,7 +5,7 @@ for pid in {0..9}
 do
     gpu=$((pid % 4))
     logfile="log/multilingual_bm25/$pid.log"
-    nohup python multichoice.py \
+    nohup python RAG.py \
         --question_path ../dataset/preliminary \
         --source_path ../reference \
         --output_path ../output \
