@@ -1,5 +1,7 @@
 # AI CUP 2024 YuShan Artificial Intelligence Open Challenge - Application of RAG and LLM in Financial Q&A
 This project is for AIcup RAG and LLM in financial Q&A contest
+## RAG Architecture
+<img src="RAG.png" alt="RAG Image" width="350">
 ## Introduction
 | Category | description | reference file |
 | -------- | -------- | -------- |
@@ -128,5 +130,5 @@ Each category error:{'faq': 0, 'insurance': 4, 'finance': 4}
 
 :::
 ### Contest data
-![](contest_score.png)
+<img src="contest_score.png" alt="RAG Image" width="350">
 
