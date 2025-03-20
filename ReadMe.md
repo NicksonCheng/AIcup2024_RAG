@@ -2,7 +2,9 @@
 This project is for AIcup RAG and LLM in financial Q&A contest
 ## RAG Architecture
 <img src="RAG.png" alt="RAG Image" width="500">
+
 ## Introduction
+
 | Category | description | reference file |
 | -------- | -------- | -------- |
 | faq     | 玉山銀行官方網站上的常見問題    | .json     |
