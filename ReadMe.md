@@ -1,5 +1,5 @@
 # AI CUP 2024 YuShan Artificial Intelligence Open Challenge - Application of RAG and LLM in Financial Q&A
-This project is for AIcup RAG and LLM in financial Q&A contest
+This project is for AIcup RAG and LLM in financial Q&A contest, Top 8% nationwide
 ## RAG Architecture
 <img src="RAG.png" alt="RAG Image" width="500">
 
